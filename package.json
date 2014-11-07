@@ -1,0 +1,23 @@
+{
+  "name": "BackBoneView",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanmora23/BackBoneView.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanmora23/BackBoneView/issues"
+  },
+  "homepage": "https://github.com/ryanmora23/BackBoneView"
+}
